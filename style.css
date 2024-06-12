@@ -1,0 +1,14 @@
+
+
+.container-fluid img{
+    width: 48px;
+    height: 40px;
+}
+
+.main{
+    margin: 24px;
+}
+
+.customheading{
+    font-weight: 500;
+}
